@@ -1,5 +1,5 @@
 # **NPS**-CppS1
-> Nebula Programming Studio / C++ Space 1
+     > Nebula Programming Studio / C++ Space 1
 
 ## 目录
 ### 1. NPS-Math
