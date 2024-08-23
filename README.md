@@ -5,4 +5,4 @@
 ####   - NPS-Math(zh-CN)
 ####   - NPS-Math(en)    
 ### <br>2. NPS-Sort
-####   - NPS-Math(zh-CN)
+####   - NPS-Sort(zh-CN)
